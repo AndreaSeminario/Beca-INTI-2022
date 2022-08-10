@@ -1,0 +1,303 @@
+ids,labels,parents
+Pampa,Pampa,
+Buenos Aires,Buenos Aires,
+Centro,Centro,
+NOA,NOA,
+NEA,NEA,
+Patagonia,Patagonia,
+Cuyo,Cuyo,
+Pampa-La Pampa,La Pampa,Pampa
+Pampa-Buenos Aires,Buenos Aires,Pampa
+Buenos Aires-AMBA,AMBA,Buenos Aires
+Patagonia-Neuquen,Neuquen,Patagonia
+NEA-Misiones,Misiones,NEA
+Patagonia-Rio Negro,Rio Negro,Patagonia
+NOA-Salta,Salta,NOA
+NOA-Santiago del Estero,Santiago del Estero,NOA
+Patagonia-Chubut,Chubut,Patagonia
+NEA-Formosa,Formosa,NEA
+NEA-Chaco,Chaco,NEA
+NOA-Jujuy,Jujuy,NOA
+Centro-Cordoba,Cordoba,Centro
+Cuyo-Mendoza,Mendoza,Cuyo
+Buenos Aires-Hudson,Hudson,Buenos Aires
+Centro-Santa Fe,Santa Fe,Centro
+Cuyo-La Rioja,La Rioja,Cuyo
+Centro-Entre Rios,Entre Rios,Centro
+Cuyo-San Juan,San Juan,Cuyo
+Patagonia-Tierra del Fuego,Tierra del Fuego,Patagonia
+NOA-Tucuman,Tucuman,NOA
+Cuyo-Otra,Otra,Cuyo
+NEA-Corrientes,Corrientes,NEA
+NOA-Catamarca,Catamarca,NOA
+NEA-Avellaneda,Avellaneda,NEA
+Buenos Aires-BELLA VISTA,BELLA VISTA,Buenos Aires
+Buenos Aires-San Andres,San Andres,Buenos Aires
+La Pampa-Santa Rosa,Santa Rosa,Pampa-La Pampa
+Buenos Aires-Tandil,Tandil,Pampa-Buenos Aires
+Buenos Aires-Mar Del Plata,Mar Del Plata,Pampa-Buenos Aires
+AMBA-Parque Chacabuco,Parque Chacabuco,Buenos Aires-AMBA
+Neuquen-Neuquen,Neuquen,Patagonia-Neuquen
+La Pampa-General Pico,General Pico,Pampa-La Pampa
+Misiones-Posadas,Posadas,NEA-Misiones
+Rio Negro-Copolletti,Copolletti,Patagonia-Rio Negro
+Neuquen-centenario,centenario,Patagonia-Neuquen
+AMBA-CABA,CABA,Buenos Aires-AMBA
+Buenos Aires-Rauch,Rauch,Pampa-Buenos Aires
+AMBA-Brandsen,Brandsen,Buenos Aires-AMBA
+Salta-Capital,Capital,NOA-Salta
+Santiago del Estero-La Banda,La Banda,NOA-Santiago del Estero
+AMBA-MARTINEZ,MARTINEZ,Buenos Aires-AMBA
+Rio Negro-Cinco Saltos,Cinco Saltos,Patagonia-Rio Negro
+Salta-Salta,Salta,NOA-Salta
+Buenos Aires-Batan,Batan,Pampa-Buenos Aires
+Misiones-ELDORADO,ELDORADO,NEA-Misiones
+Buenos Aires-Mar del Plata,Mar del Plata,Pampa-Buenos Aires
+Salta-SALTA,SALTA,NOA-Salta
+Chubut-Puerto Madryn,Puerto Madryn,Patagonia-Chubut
+AMBA-Ciudad Autonoma de Buenos Aires,Ciudad Autonoma de Buenos Aires,Buenos Aires-AMBA
+AMBA-Quilmes,Quilmes,Buenos Aires-AMBA
+Santiago del Estero-Santiago Del Estero Capital,Santiago Del Estero Capital,NOA-Santiago del Estero
+Neuquen-NEUQUEN,NEUQUEN,Patagonia-Neuquen
+AMBA-Lujan,Lujan,Buenos Aires-AMBA
+Rio Negro-CIPOLLETTI,CIPOLLETTI,Patagonia-Rio Negro
+Formosa-Formosa,Formosa,NEA-Formosa
+Chaco-Resistencia,Resistencia,NEA-Chaco
+Rio Negro-Bariloche,Bariloche,Patagonia-Rio Negro
+Buenos Aires-TANDIL,TANDIL,Pampa-Buenos Aires
+Misiones-Eldorado,Eldorado,NEA-Misiones
+Santiago del Estero-Santiago del Estero,Santiago del Estero,NOA-Santiago del Estero
+Jujuy-TILCARA,TILCARA,NOA-Jujuy
+Chaco-Makalle,Makalle,NEA-Chaco
+AMBA-Villa Martelli,Villa Martelli,Buenos Aires-AMBA
+Santiago del Estero-fernandez,fernandez,NOA-Santiago del Estero
+Cordoba-Villa Maria,Villa Maria,Centro-Cordoba
+AMBA-Olivos,Olivos,Buenos Aires-AMBA
+Neuquen-San Martin de los andes,San Martin de los andes,Patagonia-Neuquen
+Buenos Aires-25 DE MAYO,25 DE MAYO,Pampa-Buenos Aires
+Mendoza-LAS HERAS,LAS HERAS,Cuyo-Mendoza
+Mendoza-GODOY CRUZ,GODOY CRUZ,Cuyo-Mendoza
+Hudson- Berazategui, Berazategui,Buenos Aires-Hudson
+Mendoza-Lujan de Cuyo,Lujan de Cuyo,Cuyo-Mendoza
+Neuquen-San Martin de los Andes,San Martin de los Andes,Patagonia-Neuquen
+AMBA-PARQUE PATRICIOS,PARQUE PATRICIOS,Buenos Aires-AMBA
+Santa Fe-Rafaela,Rafaela,Centro-Santa Fe
+Santa Fe-SANTA FE,SANTA FE,Centro-Santa Fe
+Santa Fe-Santa Fe,Santa Fe,Centro-Santa Fe
+AMBA-Tres de Febrero,Tres de Febrero,Buenos Aires-AMBA
+Jujuy-San Salvador de Jujuy,San Salvador de Jujuy,NOA-Jujuy
+Salta-capital,capital,NOA-Salta
+AMBA-Manuel B. Gonnet,Manuel B. Gonnet,Buenos Aires-AMBA
+Cordoba-cordoba,cordoba,Centro-Cordoba
+AMBA-LUJAN,LUJAN,Buenos Aires-AMBA
+Santa Fe-Las Parejas,Las Parejas,Centro-Santa Fe
+Santa Fe-San Jorge,San Jorge,Centro-Santa Fe
+La Rioja-La Rioja,La Rioja,Cuyo-La Rioja
+Santa Fe-Totoras,Totoras,Centro-Santa Fe
+Santa Fe-Carcarana,Carcarana,Centro-Santa Fe
+AMBA-virrey del pino,virrey del pino,Buenos Aires-AMBA
+Rio Negro-El Bolson,El Bolson,Patagonia-Rio Negro
+Buenos Aires-25 de Mayo,25 de Mayo,Pampa-Buenos Aires
+Entre Rios-NOGOYA,NOGOYA,Centro-Entre Rios
+Santa Fe-LAS PAREJAS,LAS PAREJAS,Centro-Santa Fe
+Santa Fe-EL TREBOL,EL TREBOL,Centro-Santa Fe
+Entre Rios-Parana,Parana,Centro-Entre Rios
+Santa Fe-Las Rosas,Las Rosas,Centro-Santa Fe
+San Juan-Santa Lucia,Santa Lucia,Cuyo-San Juan
+Cordoba-Carlos Paz,Carlos Paz,Centro-Cordoba
+AMBA-buenos aires,buenos aires,Buenos Aires-AMBA
+AMBA-La Plata ,La Plata ,Buenos Aires-AMBA
+Tierra del Fuego-rio grande,rio grande,Patagonia-Tierra del Fuego
+Santa Fe-El Trebol,El Trebol,Centro-Santa Fe
+Chubut-Comodoro rivadavia,Comodoro rivadavia,Patagonia-Chubut
+Cordoba-Malagueno,Malagueno,Centro-Cordoba
+AMBA-San Justo,San Justo,Buenos Aires-AMBA
+Tierra del Fuego-Rio Grande ,Rio Grande ,Patagonia-Tierra del Fuego
+AMBA-Abasto- La Plata,Abasto- La Plata,Buenos Aires-AMBA
+AMBA-La Plata,La Plata,Buenos Aires-AMBA
+AMBA-Ituzaingo,Ituzaingo,Buenos Aires-AMBA
+Entre Rios-Gualeguaychu,Gualeguaychu,Centro-Entre Rios
+Buenos Aires-Olavarria,Olavarria,Pampa-Buenos Aires
+AMBA-Moron,Moron,Buenos Aires-AMBA
+AMBA-Capital Federal,Capital Federal,Buenos Aires-AMBA
+Santa Fe-Armstrong,Armstrong,Centro-Santa Fe
+Santa Fe-RAFAELA,RAFAELA,Centro-Santa Fe
+Chubut-Trelew,Trelew,Patagonia-Chubut
+Santa Fe-Arequito,Arequito,Centro-Santa Fe
+Tucuman-San Miguel de Tucuman,San Miguel de Tucuman,NOA-Tucuman
+Cordoba-Cordoba,Cordoba,Centro-Cordoba
+Santa Fe-Monte Vera,Monte Vera,Centro-Santa Fe
+Santa Fe-Sauce Viejo,Sauce Viejo,Centro-Santa Fe
+AMBA-Lincoln,Lincoln,Buenos Aires-AMBA
+Santa Fe-Santo Tome,Santo Tome,Centro-Santa Fe
+Chubut-TRELEW,TRELEW,Patagonia-Chubut
+San Juan-Rawson,Rawson,Cuyo-San Juan
+Santa Fe-AREQUITO,AREQUITO,Centro-Santa Fe
+Buenos Aires-Olavarria ,Olavarria ,Pampa-Buenos Aires
+AMBA-General San Martin ,General San Martin ,Buenos Aires-AMBA
+Otra-Villa Mercedes,Villa Mercedes,Cuyo-Otra
+Santa Fe-San Vicente,San Vicente,Centro-Santa Fe
+Santa Fe-Guadalupe Norte,Guadalupe Norte,Centro-Santa Fe
+AMBA-Villa Bonich San Martin,Villa Bonich San Martin,Buenos Aires-AMBA
+Tierra del Fuego-Tolhuin,Tolhuin,Patagonia-Tierra del Fuego
+San Juan-Rivadavia,Rivadavia,Cuyo-San Juan
+Jujuy-YALA,YALA,NOA-Jujuy
+Cordoba-Villa Giardino,Villa Giardino,Centro-Cordoba
+Santiago del Estero-santiago del estero,santiago del estero,NOA-Santiago del Estero
+Salta-salta,salta,NOA-Salta
+AMBA-lomas de zamora,lomas de zamora,Buenos Aires-AMBA
+AMBA-MALVINAS ARGENTINAS,MALVINAS ARGENTINAS,Buenos Aires-AMBA
+AMBA-RAMOS MEJIA,RAMOS MEJIA,Buenos Aires-AMBA
+Santa Fe-Rosario,Rosario,Centro-Santa Fe
+AMBA-Wilde,Wilde,Buenos Aires-AMBA
+Mendoza-SAN RAFAEL,SAN RAFAEL,Cuyo-Mendoza
+AMBA-Villa Madero,Villa Madero,Buenos Aires-AMBA
+AMBA-Moreno,Moreno,Buenos Aires-AMBA
+Corrientes-Bella Vista,Bella Vista,NEA-Corrientes
+Santiago del Estero-CAPITAL,CAPITAL,NOA-Santiago del Estero
+Santa Fe-Granadero Baigorria,Granadero Baigorria,Centro-Santa Fe
+Santiago del Estero-LA BANDA,LA BANDA,NOA-Santiago del Estero
+San Juan-Capital ,Capital ,Cuyo-San Juan
+AMBA-Nueva Pompeya,Nueva Pompeya,Buenos Aires-AMBA
+Rio Negro-ALLEN,ALLEN,Patagonia-Rio Negro
+AMBA-La matanza,La matanza,Buenos Aires-AMBA
+AMBA-AVELLANEDA,AVELLANEDA,Buenos Aires-AMBA
+AMBA-CIUDAD AUTONOMA DE BUENOS AIRES,CIUDAD AUTONOMA DE BUENOS AIRES,Buenos Aires-AMBA
+Jujuy-SS de Jujuy,SS de Jujuy,NOA-Jujuy
+Rio Negro-clmte cordero,clmte cordero,Patagonia-Rio Negro
+Entre Rios-VILLA URQUIZA,VILLA URQUIZA,Centro-Entre Rios
+Santiago del Estero-Capital,Capital,NOA-Santiago del Estero
+AMBA-Villa Tesei - Hurlingham,Villa Tesei - Hurlingham,Buenos Aires-AMBA
+Chubut-Comodoro Rivadavia,Comodoro Rivadavia,Patagonia-Chubut
+Otra-San Luis,San Luis,Cuyo-Otra
+AMBA-WILDE,WILDE,Buenos Aires-AMBA
+Misiones-Campo Grande,Campo Grande,NEA-Misiones
+Jujuy-Rio Blanco - Palpala,Rio Blanco - Palpala,NOA-Jujuy
+Santiago del Estero-capital,capital,NOA-Santiago del Estero
+Santa Fe-Romang ,Romang ,Centro-Santa Fe
+AMBA-Villa Lynch,Villa Lynch,Buenos Aires-AMBA
+AMBA-Caseros,Caseros,Buenos Aires-AMBA
+Mendoza-Godoy Cruz,Godoy Cruz,Cuyo-Mendoza
+Cordoba-Corral de Bustos,Corral de Bustos,Centro-Cordoba
+Santa Fe-Casilda,Casilda,Centro-Santa Fe
+Entre Rios-Cerrito,Cerrito,Centro-Entre Rios
+Corrientes-Corrientes,Corrientes,NEA-Corrientes
+Catamarca-Capital,Capital,NOA-Catamarca
+AMBA-capital federal,capital federal,Buenos Aires-AMBA
+Mendoza-Guaymallen,Guaymallen,Cuyo-Mendoza
+Mendoza-San Rafael,San Rafael,Cuyo-Mendoza
+La Pampa-Maraco,Maraco,Pampa-La Pampa
+Rio Negro-San Carlos de Bariloche,San Carlos de Bariloche,Patagonia-Rio Negro
+Salta-Salta Capital,Salta Capital,NOA-Salta
+Entre Rios-Colon,Colon,Centro-Entre Rios
+Entre Rios-aldea maria luisa,aldea maria luisa,Centro-Entre Rios
+Entre Rios-Segui,Segui,Centro-Entre Rios
+AMBA-Carapachay,Carapachay,Buenos Aires-AMBA
+Otra-Villa Mercedes - San Luis,Villa Mercedes - San Luis,Cuyo-Otra
+AMBA-San Pedro Provincia Buenos Aires ,San Pedro Provincia Buenos Aires ,Buenos Aires-AMBA
+AMBA-Bransen ,Bransen ,Buenos Aires-AMBA
+San Juan-CAPITAL,CAPITAL,Cuyo-San Juan
+AMBA-San Martin,San Martin,Buenos Aires-AMBA
+AMBA-Mayor Buratovich,Mayor Buratovich,Buenos Aires-AMBA
+Santa Fe-Venado Tuerto,Venado Tuerto,Centro-Santa Fe
+AMBA-Ciudadela,Ciudadela,Buenos Aires-AMBA
+Santa Fe-VENADO TUERTO,VENADO TUERTO,Centro-Santa Fe
+AMBA-Bernal,Bernal,Buenos Aires-AMBA
+Buenos Aires-Bragado,Bragado,Pampa-Buenos Aires
+Santa Fe-Granadero Baigorria 2152,Granadero Baigorria 2152,Centro-Santa Fe
+AMBA-Martinez,Martinez,Buenos Aires-AMBA
+AMBA-Pineyro,Pineyro,Buenos Aires-AMBA
+AMBA-valentin alsina,valentin alsina,Buenos Aires-AMBA
+AMBA-Victoria,Victoria,Buenos Aires-AMBA
+AMBA-Llavallol,Llavallol,Buenos Aires-AMBA
+Santa Fe-Villa Gobernador Galvez,Villa Gobernador Galvez,Centro-Santa Fe
+Chaco-General Pinedo,General Pinedo,NEA-Chaco
+Santa Fe-ROSARIO,ROSARIO,Centro-Santa Fe
+AMBA-Lanus,Lanus,Buenos Aires-AMBA
+Cordoba-CORDOBA,CORDOBA,Centro-Cordoba
+AMBA-Pilar,Pilar,Buenos Aires-AMBA
+Chaco-Presidencia Roque Saenz Pena,Presidencia Roque Saenz Pena,NEA-Chaco
+Avellaneda- Cordoba, Cordoba,NEA-Avellaneda
+AMBA-lanus,lanus,Buenos Aires-AMBA
+AMBA-BERAZATEGUI,BERAZATEGUI,Buenos Aires-AMBA
+AMBA-Munrro,Munrro,Buenos Aires-AMBA
+AMBA-VICENTE LOPEZ - OLIVOS,VICENTE LOPEZ - OLIVOS,Buenos Aires-AMBA
+AMBA-Berazategui,Berazategui,Buenos Aires-AMBA
+Formosa-EL COLORADO ,EL COLORADO ,NEA-Formosa
+Santa Fe-Villa Canas,Villa Canas,Centro-Santa Fe
+AMBA-Munro,Munro,Buenos Aires-AMBA
+AMBA-quilmes,quilmes,Buenos Aires-AMBA
+AMBA-Garin,Garin,Buenos Aires-AMBA
+AMBA-Florida,Florida,Buenos Aires-AMBA
+AMBA-SAN JUSTO,SAN JUSTO,Buenos Aires-AMBA
+Buenos Aires-Bahia Blanca,Bahia Blanca,Pampa-Buenos Aires
+AMBA-Don Torcuato,Don Torcuato,Buenos Aires-AMBA
+AMBA-Guillermo Hudson,Guillermo Hudson,Buenos Aires-AMBA
+Otra-San Luis Capital,San Luis Capital,Cuyo-Otra
+Mendoza-Maipu,Maipu,Cuyo-Mendoza
+AMBA-Castelar,Castelar,Buenos Aires-AMBA
+Chaco-Presidencia de la Plaza,Presidencia de la Plaza,NEA-Chaco
+Cordoba-Ranquel,Ranquel,Centro-Cordoba
+Cordoba-Sinsacate,Sinsacate,Centro-Cordoba
+Misiones-Puerto Rico,Puerto Rico,NEA-Misiones
+Santa Fe-Esperanza,Esperanza,Centro-Santa Fe
+Cordoba-Marcos Juarez,Marcos Juarez,Centro-Cordoba
+AMBA-SAN MARTON,SAN MARTON,Buenos Aires-AMBA
+AMBA-Caba,Caba,Buenos Aires-AMBA
+AMBA-Lomas Del Mirador,Lomas Del Mirador,Buenos Aires-AMBA
+AMBA-3 de Febrero,3 de Febrero,Buenos Aires-AMBA
+AMBA-El Talar - Tigre,El Talar - Tigre,Buenos Aires-AMBA
+Buenos Aires-Azul,Azul,Pampa-Buenos Aires
+Corrientes-CORRIENTES,CORRIENTES,NEA-Corrientes
+Buenos Aires-BAHIA BLANCA,BAHIA BLANCA,Pampa-Buenos Aires
+BELLA VISTA- SAN MIGUEL, SAN MIGUEL,Buenos Aires-BELLA VISTA
+Buenos Aires-Pergamino,Pergamino,Pampa-Buenos Aires
+Misiones-puerto rico,puerto rico,NEA-Misiones
+Salta-Tartagal,Tartagal,NOA-Salta
+Buenos Aires-TRES ARROYOS,TRES ARROYOS,Pampa-Buenos Aires
+AMBA-Pablo Podesta,Pablo Podesta,Buenos Aires-AMBA
+Mendoza-Santa Rosa,Santa Rosa,Cuyo-Mendoza
+AMBA-Nunez,Nunez,Buenos Aires-AMBA
+AMBA-Remedios de Escalada,Remedios de Escalada,Buenos Aires-AMBA
+AMBA-Jose Leon Suarez,Jose Leon Suarez,Buenos Aires-AMBA
+AMBA-San Miguel,San Miguel,Buenos Aires-AMBA
+Misiones-Obera,Obera,NEA-Misiones
+AMBA-vicente lopez,vicente lopez,Buenos Aires-AMBA
+AMBA-Palermo,Palermo,Buenos Aires-AMBA
+AMBA-General Rodriguez,General Rodriguez,Buenos Aires-AMBA
+AMBA-Haedo,Haedo,Buenos Aires-AMBA
+Santa Fe-VILLA GOBERDOR GALVEZ,VILLA GOBERDOR GALVEZ,Centro-Santa Fe
+AMBA-Lomas de Zamora,Lomas de Zamora,Buenos Aires-AMBA
+AMBA-Don torcuato,Don torcuato,Buenos Aires-AMBA
+AMBA-Beccar,Beccar,Buenos Aires-AMBA
+Buenos Aires-chivilcoy,chivilcoy,Pampa-Buenos Aires
+AMBA-Grand Bourg,Grand Bourg,Buenos Aires-AMBA
+AMBA-BARRACAS  - CABA,BARRACAS  - CABA,Buenos Aires-AMBA
+AMBA-Villa Maipu,Villa Maipu,Buenos Aires-AMBA
+AMBA-Ciudad Autonoma Buenos Aires,Ciudad Autonoma Buenos Aires,Buenos Aires-AMBA
+San Andres- San Martin, San Martin,Buenos Aires-San Andres
+Buenos Aires-JUNIN,JUNIN,Pampa-Buenos Aires
+Misiones-leandro n alem ,leandro n alem ,NEA-Misiones
+AMBA-longchamps,longchamps,Buenos Aires-AMBA
+AMBA-PILAR,PILAR,Buenos Aires-AMBA
+Chaco-LA LEONESA,LA LEONESA,NEA-Chaco
+AMBA-Recoleta,Recoleta,Buenos Aires-AMBA
+Buenos Aires-Trenque Lauquen,Trenque Lauquen,Pampa-Buenos Aires
+AMBA-Ensenada,Ensenada,Buenos Aires-AMBA
+AMBA-Padua,Padua,Buenos Aires-AMBA
+Misiones-Puerto Esperanza,Puerto Esperanza,NEA-Misiones
+AMBA-Boedo,Boedo,Buenos Aires-AMBA
+Cordoba-La Carlota,La Carlota,Centro-Cordoba
+AMBA-avellaneda,avellaneda,Buenos Aires-AMBA
+AMBA-Burzaco,Burzaco,Buenos Aires-AMBA
+Corrientes-Gdor Virasoro,Gdor Virasoro,NEA-Corrientes
+AMBA-Burzaco - Almirante Brown,Burzaco - Almirante Brown,Buenos Aires-AMBA
+AMBA-Avellaneda,Avellaneda,Buenos Aires-AMBA
+AMBA-Bella Vista,Bella Vista,Buenos Aires-AMBA
+Cordoba-Cordoba Capital,Cordoba Capital,Centro-Cordoba
+Buenos Aires-OLAVARRIA,OLAVARRIA,Pampa-Buenos Aires
+Buenos Aires-MAR DEL PLATA,MAR DEL PLATA,Pampa-Buenos Aires
+Salta-Cnel Moldes,Cnel Moldes,NOA-Salta
+Salta-La Silleta,La Silleta,NOA-Salta
+Salta-San Jose de Metan,San Jose de Metan,NOA-Salta
+Salta-salta capital,salta capital,NOA-Salta
