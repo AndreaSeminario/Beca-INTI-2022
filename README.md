@@ -20,6 +20,12 @@ Para ejecutar este proyecto, necesitas tener instalado Python 3 y las siguientes
 - matplotlib
 
 Puedes instalar estas bibliotecas utilizando pip:
+
+Opción 1:
+```bash
+pip install -r requirements.txt
+```
+Opción 2:
 ```bash
 pip install pdfplumber pandas matplotlib
 ```
