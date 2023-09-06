@@ -1,8 +1,6 @@
 # Beca INTI/UNLZ 2022
 
-<img src="https://github.com/AndreaSeminario/Beca-INTI-2022/assets/101892938/37cbca09-0be9-4e71-b2f9-259a7547deb9" alt="UNLZ-FI" width="148" />
-<img src="https://github.com/AndreaSeminario/Beca-INTI-2022/assets/101892938/df800e6b-c8ef-4304-8ae5-182fabaa2507" alt="INTI_Logo_2019" width="200" />
-
+<img src="proyecto/UNLZ-FI.png" width="148"><img src="proyecto/INTI.png" width="200">
 
 Este proyecto es parte de la Beca INTI/UNLZ 2022 y tiene como objetivo procesar y analizar datos de empresas en formato PDF.
 
